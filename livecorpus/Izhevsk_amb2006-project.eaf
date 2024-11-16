@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-15T00:11:00+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-11-16T20:19:22+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -6025,8 +6025,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a158" CVE_REF="cveid_ec21c04a-feae-48cf-8387-54bea216078c">
-                <ANNOTATION_VALUE>CONJ</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a158" CVE_REF="cveid_55d0ab6e-09f3-4142-8e52-41fe08eb0a10">
+                <ANNOTATION_VALUE>ADP</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9852,8 +9852,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a118" CVE_REF="cveid_20f78059-d2e8-4f05-b5e1-5ecdb74f5fb8">
-                <ANNOTATION_VALUE>PRON</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a118" CVE_REF="cveid_fd3892e0-2247-4b30-aac6-412df7de2983">
+                <ANNOTATION_VALUE>DET</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
